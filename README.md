@@ -6,7 +6,7 @@ you can literally be on the other end of the map and
 have your vehicle located in a parking lot all the way over in los santos. 
 The mod also includes a .ini file where you can change the mod's configuration.
 
-Source code: KJAWSNDKJAWNDKAWDNKJ
+Source code: https://github.com/JoeyT-DEV/Open_Source
 =========================================================== 
 +How To Install+
 
